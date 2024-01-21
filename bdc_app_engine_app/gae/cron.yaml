@@ -1,0 +1,5 @@
+cron:
+- description: json to avro conversion
+  url: /events/json_to_avro_convert
+  schedule: every 60 minutes
+
